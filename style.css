@@ -23,8 +23,8 @@ body{
     top: 2%;
 }
 .icon{
-    width: 25%;
-    height: 70%;
+    width: 20%;
+    height: 50%;
     /* background-color: darkcyan; */
 }
 .icon > img{
@@ -32,7 +32,7 @@ body{
     height: 100%;
 }
 .logo{
-    width: 70%;
+    width: 75%;
     height: 100%;
     /* background-color: darkorchid; */
 }
